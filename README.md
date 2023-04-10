@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jkight1
-- 👀 I’m interested in 
-- 🌱 I’m currently learning comptia a+ and python.
+- 👋 Hi, I’m Jeremy
+- 👀 I’m interested in Devops and Cyber Security
+- 🌱 I’m currently learning Devops at Intellipaat
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeremykightcs@gmail.com
 
