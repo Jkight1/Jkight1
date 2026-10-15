@@ -42,7 +42,10 @@ I'm continuing to expand my technical skill set through hands-on learning, cyber
 - CompTIA Security+
 - CompTIA A+
 - CompTIA Data+
-- ITIL 4 Foundation
+- CompTIA Network+
+- CompTIA Project+
+- Linux Foundations
+- ITIL 4 Foundations
 - Bachelor of Arts in Business Administration — Clayton State University
 - Bachelor of Science in Cybersecurity and Information Assurance — Western Governors University (Projected graduation is December 2026)
 
@@ -77,8 +80,8 @@ I'm committed to growing my technical capabilities one project at a time.
 
 *Always learning. Always improving. Building practical skills for the next challenge.*
 - 👀 I’m interested in Devops and Cyber Security
-- 🌱 I’m currently learning Devops at Intellipaat
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cybersecurity and Information Assurance from WGU.
+- 💞️ I’m looking to collaborate on anything cloud related
 - 📫 How to reach me jeremykightcs@gmail.com
 
 <!---
